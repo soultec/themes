@@ -1,0 +1,104 @@
+/* Mookait style. Site: http://public.hagall.net/i4.php?p=./themes/Mookait/ */
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fffff0;
+}
+
+.hljs * {
+  font-weight:300;
+}
+
+.hljs,
+.hljs-subst {
+  color: #FF841A;
+}
+
+.css {
+  color:#BB89AF;
+}
+
+.hljs-tag {
+  color: #C80F21;
+}
+
+.hljs-strong,
+.hljs-emphasis {
+  color: #B48859;/*#792040*/
+}
+
+.hljs-bullet,
+.hljs-quote,
+.hljs-number,
+.hljs-regexp,
+.hljs-literal,
+.hljs-link {
+  color: #6869AC;
+}
+
+.hljs-code,
+.hljs-title,
+.hljs-section {
+  color: #C80F21;
+}
+
+.hljs-selector-class {
+  color: #FF841A;
+  color:#C80F21;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #C80F21;
+}
+
+.hljs-name {
+  color: #C80F21;
+  font-weight:600;
+}
+
+.hljs-attr {
+  color: #6869AC;
+}
+
+.hljs-symbol {
+  color: #EA781F;
+}
+
+.hljs-attribute {
+  color: #A87B92;
+}
+
+.hljs-params,
+.hljs-class .hljs-title {
+  color: #C80F21;
+}
+
+.hljs-string,
+.hljs-type,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-selector-id,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-variable {
+  color: #FF841A;
+}
+
+.hljs-comment,
+.hljs-deletion,
+.hljs-meta {
+  color: #B48859;
+}

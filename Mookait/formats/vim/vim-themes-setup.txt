@@ -1,0 +1,20 @@
+copy .vim-files to one of those directories: 
+ - /usr/share/vim/vimfiles/colors/
+ - /usr/share/vim/vim74/colors/
+ - ~/.vim/colors
+
+
+and
+
+
+vim ~/.vimrc
+>> syntax enable
+>> colorscheme mookait
+
+
+or
+
+
+vim ~/.vimrc
+>> syntax enable
+>> colorscheme mookaitlight

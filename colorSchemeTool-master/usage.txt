@@ -1,0 +1,10 @@
+C:\phil\Programme\Python27\python.exe colorSchemeTool.py tmThemes/FluoroMachine.tmTheme intellijThemes/FluoroMachine.icls
+C:\phil\Programme\Python27\python.exe colorSchemeTool.py tmThemes/1337.tmTheme intellijThemes/1337.icls
+C:\phil\Programme\Python27\python.exe colorSchemeTool.py tmThemes/brogrammer.tmTheme intellijThemes/brogrammer.icls
+C:\phil\Programme\Python27\python.exe colorSchemeTool.py tmThemes/Earthsong.tmTheme intellijThemes/Earthsong.icls
+C:\phil\Programme\Python27\python.exe colorSchemeTool.py tmThemes/ILMHackers.tmTheme intellijThemes/ILMHackers.icls
+C:\phil\Programme\Python27\python.exe colorSchemeTool.py tmThemes/Sunrise2.tmTheme intellijThemes/Sunrise2.icls
+C:\phil\Programme\Python27\python.exe colorSchemeTool.py tmThemes/Mookait.tmTheme intellijThemes/Mookait.icls
+
+
+
